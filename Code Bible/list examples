@@ -1,0 +1,42 @@
+array = [1,"random thing","another random thing"]
+#index   0       1                2
+
+#how to check if something in an array
+if "random thing" in array:
+  print("it's true")
+
+#how to check if something is not in an array(this one is true)
+if "1" not in array:
+  print("1 is not in the array lol")
+
+#how to get how big an array is
+array_length = len(array)
+#array_length = 3
+print("the array's length is: "+str(array_length))
+
+#how to delete something is in an array
+#let's say i want to delete the value of "random thing" in the array
+#first we get the index
+index_num = array.index("random thing")
+#del array_name[index_number]
+del array[index_num]
+#array = [1,"another random thing"]
+
+#how to loop through a certain number using a for loop
+number = 6
+for num in range(0,number):
+  print(num)
+#will print 0 1 2 3 4 5
+
+#how to loop through a list
+for thing in array:
+  print(thing)
+
+
+#how to combine strings
+str1 = "hello"
+str2 = " "
+str3 = "world"
+combined_str = str1+str2+str3
+#combined_str = "hello world"
+print(combined_str)

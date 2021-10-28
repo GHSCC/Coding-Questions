@@ -1,0 +1,15 @@
+number = int(input("whats input "))
+answer_list = []
+
+#loop i from 0 to number+4
+#however do not print 7 if it is included in the number range
+for i in range(0, number+4):
+  if i != 7:
+    answer_list.append(i)
+
+print(answer_list)
+#sample input and output
+# user_input = 5
+# output = 0,1,2,3,4,5,6,8
+# user_input = 1
+# output = 0,1,2,3,4

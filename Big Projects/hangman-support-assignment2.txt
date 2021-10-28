@@ -1,0 +1,22 @@
+#assignment support question #2
+
+#guessing_word is created within the code
+guessing_word = "unknownword"
+
+#run the following in a loop that doesn't stop
+#asks user for a char
+#if the char is in the string, print the index of the char within the string
+#if the char is not in the string, print False
+
+#tips and hints
+#you are allowed to search up how to loop through a string using a for in range() loop in python
+#search up how to get access a certain index of a string in python
+
+#user example:
+#guessing_word = "unknownword"
+#what's the char: "u"
+#0
+#what's the char: "w"
+#5
+#what's the char: "z"
+#False

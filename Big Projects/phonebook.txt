@@ -1,0 +1,30 @@
+#assignment #2
+#phonebook application(text based)
+
+#in this assignment you will be expected to write a phonebook record phone numbers and their names
+#the phone book will begin by asking the user what they want to do
+#out of a list of possible actions
+#1.register  asks the user for their name and
+#2.check phone  asks the user for their name and if it's in the system, then print out their phone number, if their name is not in the system print please register first
+#3.delete phone  asks the user for their name, and if it's in the system, delete it, otherwise print deletion failed
+#the user will be asked to do the actions until they stop the program
+
+#functions you will create:
+#check_member(member_name)
+#this function will return a boolean if the member name is in the system
+
+#user_examples:
+#bot asks for an action out of the 3
+#user_input = 1
+#what's your name: frank
+#what's your phone number: 6045687890
+
+#bot asks for an action out of the 3
+#user_input = 2
+#what's the name you want to check: frank
+#output = 6045687890
+
+#bot asks for an action out of the 3
+#user_input = 2
+#what's the name you want to check: ivan
+#output = please register first

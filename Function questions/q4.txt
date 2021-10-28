@@ -1,0 +1,16 @@
+#create a function called list_sum()
+#take in an array as it's parameter(the array will only contain numbers)
+#return the sum of all the numbers combined in the list
+
+#hints and tips
+#look at your past work
+
+#user examples
+#ans = list_sum([1,2,3,4,5])
+#ans = 15
+
+#ans = list_sum([1,3,5])
+#ans = 9
+
+#ans = list_sum([1,-10,5])
+#ans = -4

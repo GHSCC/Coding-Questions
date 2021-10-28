@@ -1,0 +1,21 @@
+#frank's question #9
+
+#you will asks the user for inputs until the user inputs "stop"
+#each of these user inputs add it to the list(don't add "stop")
+#after the user enters stop, stop asking for user_inputs
+#check if "lol" is in the list(if so print "funny :)")
+
+
+#example #1
+#user_input = "hello world"
+#user_input = "random value"
+#user_input = "3"
+#user_input = "stop"
+#computer_output = (nothing cause there is no lol)
+
+#example #2
+#user_input = "hello world"
+#user_input = "random value"
+#user_input = "lol"
+#user_input = "stop"
+#computer_output = funny :)

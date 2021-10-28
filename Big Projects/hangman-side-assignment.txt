@@ -1,0 +1,34 @@
+#assignment support question #1
+
+#guessing_word is created within the code
+guessing_word = "unknownword"
+
+#run the following in a loop that doesn't end
+#asks the user for a char(1 letter string)
+#print true if it's in the char is in the string
+#print false if the char is not in the string
+
+#tips and hints
+#you are allowed to search up how to check if a char is in a string in python
+#you are allowed to search up how to loop through a string using a for loop in python
+
+#user example:
+#guessing_word = "unknownword"
+#what's the char: "u"
+#"True"
+#what's the char: "w"
+#"True"
+#what's the char: "z"
+#"False"
+#what's the char: "o"
+#"True"
+
+#guessing_word = "good"
+#what's the char: "o"
+#"True"
+#what's the char: "w"
+#"False"
+#what's the char: "d"
+#"True"
+#what's the char: "o"
+#"True"

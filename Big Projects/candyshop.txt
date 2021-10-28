@@ -1,0 +1,58 @@
+#assignment #3
+#candy store data storage
+
+#have you ever failed at basic math
+#old man tom has a candy shop that only serves children under 13 and has 4.0 in their GPA
+#old man tom sells only 4 types of candy to the children: kit-kat, generic-lolipops, licorice and jawbreakers
+#old man tom skipped school as a kid, so he's not great at keep track of numbers
+#old man tom would like you to write a program to keep track of his candy inventory
+#the program will loop until the user enters 3
+#each time the program runs you can do a 3 different actions
+#1.add stock  asks the user for a candy type and how many he wants to add it to the inventory
+#2.sell stock  asks the user for a candy type and how many he is selling, then update the dictionary, however if the amount of candy removed is more there is in storage, print sorry you don't have enough please restock, and don't change the inventory
+#3 stop program   stops the program and exits out of the while loop
+#the user will be asked to do the actions until they stop the program
+
+#user_examples:
+#bot asks for an action out of the 3
+#user_input = 1
+#what's the candy you want to add: kit-kat
+#how many do you want to add: 20
+
+#bot asks for an action out of the 3
+#user_input = 1
+#what's the candy you want to add: lolipops
+#how many do you want to add: 20
+
+#bot asks for an action out of the 3
+#user_input = 1
+#what's the candy you want to add: licorice
+#how many do you want to add: 20
+
+#bot asks for an action out of the 3
+#user_input = 1
+#what's the candy you want to add: generic-lolipops
+#how many do you want to add: 20
+
+#bot asks for an action out of the 3
+#user_input = 2
+#what's the candy you want to sell: generic-lolipops
+#how many do you want to add: 10000
+#computer_output = "sorry you don't have enough please restock"
+#note that the generic-lolipops stock doesn't change since there wasn't enough, so it remains 20
+
+#bot asks for an action out of the 3
+#user_input = 2
+#what's the candy you want to sell: generic-lolipops
+#how many do you want to add: 20
+
+#bot asks for an action out of the 3
+#user_input = 2
+#what's the candy you want to sell: generic-lolipops
+#how many do you want to add: 1
+#computer_output = "sorry you don't have enough please restock"
+#note that the generic-lolipops stock doesn't change since there wasn't enough, so it remains 0
+
+#bot asks for an action out of the 3
+#user_input = 3
+#program breaks

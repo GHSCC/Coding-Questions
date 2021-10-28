@@ -1,0 +1,60 @@
+# Give the user instructions on how to play the game.
+
+# Before game begins:
+#  1. Ask user for the word
+
+# Start Game:
+#   1. Ask user for the letter they're going to guess.
+#   2. If letter is included in the word, the letter is displayed in the correct spot the rest is filled with '#'
+#   3. Repeat these steps until the word is guessed, or until the number of times guessed is more than (length of word + 3)
+#                if the user didn't guess the word correctly in less than (length of word + 3) tries, print "LOSER!!"
+
+# End Game:
+#   1. Game ends when user guesses the word correctly.
+#   2. If user wins, display "you win!"
+
+
+# Example 1
+#user_word = "hello"
+
+#user_guess = "e"                                 tries: 1
+#comp_output = "#e###"
+
+#user_guess = "h"                                 tries: 2
+#comp_output = "he###"
+
+#user_guess = "h"                                 tries: 3
+#comp_output = "he###"
+
+#user_guess = "l"                                 tries: 4
+#comp_output = "hell#"
+
+#user_guess = "o"                                 tries: 5
+#comp_output = "hello"
+#comp_output = "You win!"
+
+
+# Example 2
+#user_word = "hell"
+
+#user_guess = "e"                                 tries: 1
+#comp_output = "#e##"
+
+#user_guess = "h"                                 tries: 2
+#comp_output = "he##"
+
+#user_guess = "a"                                 tries: 3
+#comp_output = "he##"
+
+#user_guess = "b"                                 tries: 4
+#comp_output = "he##"
+
+#user_guess = "a"                                 tries: 6
+#comp_output = "he##"
+
+#user_guess = "c"                                 tries: 7
+#comp_output = "he##"
+
+#user_guess = "d"                                 tries: 8
+#comp_output = "he##"
+#comp_output = "LOSER!!"

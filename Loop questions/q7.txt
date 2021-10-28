@@ -1,0 +1,27 @@
+#happy frank's question #7
+#this is due on friday have fun
+
+#while True: asks the user for a number and add that number to the list
+#if 5 is ever in the list print True
+
+#user_input = 0
+#list = [0]
+#asks for another number again
+#user_input = 5
+#list = [0,5]
+#computer_output = True
+
+#user_input = 4
+#list = [4]
+#asks for another number again
+#user_input = 7
+#list = [4,7]
+#asks for another number again
+#user_input = 8
+#list = [4,7,8]
+#asks for another number again
+#user exits the program(the is no True printed since there was never any 5)
+
+#user_input = 5
+#list = [5]
+#computer_output = True

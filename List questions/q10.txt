@@ -1,0 +1,14 @@
+#happy frank question #10
+
+#a list of ints is created within the code
+#loop through the entire list and remove any duplicate within the list
+
+#user example:
+#list = [1,6,7,2,3,7,8,9,0]
+#[1,6,7,2,3,8,9,0]
+
+#list = [1,1,1,22]
+#[1,21]
+
+#list = [5,5,5,5]
+#[5]

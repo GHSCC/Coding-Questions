@@ -1,0 +1,18 @@
+#frank's question #5
+
+#in this question, you need to convert an initalized list's elements into string(all of it will be able to be converted into string)
+#print out the entire list after converting as output
+#this question must be done with a loop(no cheekly web answers)
+
+#hints and tips
+#search up how to convert anything into a string python in google
+
+#examples:
+#array = [123,88,87,345]
+#["123","88","87","345"]
+
+#array = [123,88,True]
+#["123","88","True"]
+
+#array = ["hello",88,True]
+#["hello","88","True"]

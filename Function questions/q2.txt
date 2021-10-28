@@ -1,0 +1,13 @@
+#write a function named allsum
+#that takes in 2 numbers(number1 will always be smaller than number2)
+#return the sum of all the numbers from the first number to the second number
+
+#user examples:
+#ans1 = allsum(1,4)
+#ans1 = 1+2+3+4 = 10
+
+#ans2 = allsum(10,12)
+#ans2 = 10+11+12 = 33
+
+#ans3 = subtract(0,3)
+#ans3 = 0+1+2+3 = 6

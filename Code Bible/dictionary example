@@ -1,0 +1,35 @@
+#how to use dictionaries
+#making a dictionary
+dictionary = {}
+#if you want it to have predefined values, here's an example
+#note that a dictionary can use strings, numbers and booleans as it's index, and it can store any basic data type, like arrays, another dictionary, number, etc
+dictionary2 = {"key1":0,2:2}
+
+#how to access things within the dictionary
+#output_value = dictionary_name[dictionary_key]
+#hint: the key must be valid in order for it to work
+ouput_value = dictionary2["key1"]
+print(ouput_value)
+
+#why doesn't this work?
+ouput_value = dictionary2[1]
+print(ouput_value)
+
+#how to add values to a dictionary
+#let's take out created empty dictionary, and add a value of ["ivan","loves","vodka"] with the key of "ivan_data"
+#dictionary_name[new_key] = new_value
+dictionary["ivan_data"] = ["ivan","loves","vodka"]
+
+#dictionary = {"ivan_data":["ivan","loves","vodka"]}
+
+#how to delete something in a dictionary
+#let's say we don't want the "ivan_data" in our dictionary anymore
+#dictionary_name.pop(removed_key), this function also returns the popped values, which you can collect using a variable, if you don't collect it, you just delete the key
+popped_value = dictionary.pop("ivan_data")
+
+#dictionary = {}
+#popped_value = ["ivan","loves","vodka"]
+
+#how to check if a key is in the dictionary
+if "keyname" in dictionary.keys():
+  print(True)

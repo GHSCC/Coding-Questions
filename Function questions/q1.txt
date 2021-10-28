@@ -1,0 +1,13 @@
+#write a function named subtract
+#that takes in 2 numbers
+#return the first number minus the second number
+
+#user examples:
+#ans1 = subtract(10,5)
+#ans1 = 5
+
+#ans2 = subtract(5,15)
+#ans2 = -10
+
+#ans3 = subtract(19,0)
+#ans3 = 19

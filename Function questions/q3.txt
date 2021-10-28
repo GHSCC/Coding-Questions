@@ -1,0 +1,10 @@
+#create a function named max()
+#takes in 3 numbers as parameters
+#return the largest number out of the three(if they are all equal return that number)
+
+#user example
+#ans = max(1,2,3)
+#ans = 3
+
+#ans = max(2,2,2)
+#ans = 2

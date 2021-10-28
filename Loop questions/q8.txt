@@ -1,0 +1,18 @@
+#happy frank's question #8
+#this is due on monday have fun
+
+#a list is created in the code(only numbers are in the list)
+#loops through the list
+#if any number divided by 2 is equal to 5
+#print out True
+
+#list = [0]
+#computer_output = Nothing(don't actually print nothing just showing that there is no output)
+
+#list = [4,3,56,765,10]
+#computer_output = True
+#it's true since 10 divided by 2 is 5 which fits the requirement
+
+#list = [4,3,56,765,2394872,234,32,56]
+#computer_output = Nothing(don't actually print nothing just showing that there is no output)
+#computer_output = Nothing(since none of the number/2 is equal to 5)

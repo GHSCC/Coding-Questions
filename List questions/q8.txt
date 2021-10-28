@@ -1,0 +1,12 @@
+#happy frank question #8
+
+#a list of ints is created within the code
+#loop through the entire list and prints whether the number is bigger than 5
+
+#user example:
+#list = [1,6,7,2,3]
+#False
+#True
+#True
+#False
+#False

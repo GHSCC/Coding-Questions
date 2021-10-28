@@ -1,0 +1,25 @@
+Assignment #4 Operation stop the scammers
+Jeff Benzos is currently facing some huge problems:
+#1. His can’t spend as fast as he earns
+#2. People are using scamming techniques to get free amazon packages(WHEN THEY AREN’T FREE)
+We will be writing a program to solve the #2 problem today.
+The scammer do this by exploiting the package not delivered feature, they would take pay for a product, then when it arrives, take the product, and report to amazon that the package wasn’t delivered, getting the refund on their products.
+The program aims to strike back, by flagging their account, info and address.
+Everytime the program runs, the user will be asked to do one of 2 actions, either 1.flagging an address, or 2. Checking if an address is flagged
+
+Sample:
+Computer:what would you like to do 1 or 2?
+User: 1
+Computer:what is the new address to be flagged
+User:410 Terry Ave North Seattle
+Computer: flagging successful
+Computer:what would you like to do 1 or 2?
+User: 2
+Computer:what’s the address that you’re checking?
+User: 410 Terry Ave. North Seattle
+Computer: that address is flagged
+Computer:what would you like to do 1 or 2?
+User: 2
+Computer:what’s the address that you’re checking?
+User: 123432
+Computer: that address is not flagged

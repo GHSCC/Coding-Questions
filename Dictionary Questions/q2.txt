@@ -1,0 +1,20 @@
+#dictionary_question #2
+#write a function that takes in a dictionary, and a value(can be int, string or boolean), and returns True if the value is a key within the dictionary's keys, otherwise return False
+#has_key(dict,val)
+
+#user_examples:
+#dictionary = {"hello":1}
+#print(has_key(dictionary,"hello"))
+#True
+
+#dictionary = {"hello":1}
+#print(has_key(dictionary,"2"))
+#False
+
+#dictionary = {"hello":1,True:"yes"}
+#print(has_key(dictionary,True))
+#True
+
+#dictionary = {6:1,True:"yes"}
+#print(has_key(dictionary,6))
+#True

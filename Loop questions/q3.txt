@@ -1,0 +1,9 @@
+number = int(input("whats input"))
+answer_list = []
+
+
+#loop i from 0 to number-1
+for i in range(0, number):
+    answer_list.append(i)
+
+print(answer_list)

@@ -1,0 +1,13 @@
+#frank's question #1
+
+#you will asks the user for 3 different inputs(put this on a for loop)
+#after you get the 3 inputs add each of them to a list
+#print out wether or not if "hello world" is in the list
+#print out the list
+
+#example #1
+#user_input1 = "hello world"
+#user_input1 = "random value"
+#user_input1 = "3"
+#computer_output = True
+#computer_output = ["hello world","random value","3"]

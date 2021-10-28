@@ -1,0 +1,16 @@
+#happy frank's question #1
+
+#put these actions below in a while True loop
+#asks user for a key
+#asks user for a value
+#add the key and value to a dictionary and print it out everytime
+
+dictionary = {"key":"value"}
+
+#key = "status"
+#value = "gaming"
+#computer_output = {"status":"gaming"}
+
+#key = "iq"
+#value = "0"
+#computer_output = {"status":"gaming","iq":0}

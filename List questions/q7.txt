@@ -1,0 +1,12 @@
+#list problem #7
+#premade_array = [1,2,3,4,5,6,7,10,15,9]
+#check everything in a premade list, and remove any even numbers in the list(all of the elements in the array will be integers)
+#print out the new updated list
+#this question must be done with a loop(no cheekly web answers)
+
+#hints and tips
+#search up in google how to find odd number in python for hints on how to find even numbers
+#search up in google how to delete something from a list in python
+
+#examples:
+#[1,3,5,7,15,9]

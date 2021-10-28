@@ -1,0 +1,12 @@
+#frank's question #2
+
+#computer will make a list of numbers(only ints)
+#print out the sum of everything in the list
+
+#user example #1
+#computer_list = [1,2,3,4]
+#output = 10
+
+#user example #2
+#computer_list = [1,2,3,4,10]
+#output = 20

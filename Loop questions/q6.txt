@@ -1,0 +1,15 @@
+#happy frank's question #6
+#this is due on friday have fun
+
+#user enters a number
+#computer prints 10 if it is within the range of 0 to number+4
+
+#user_input = 0
+#computer_output = literally nothing
+#because 10 is not in from 0 to 4
+#user_input = 5
+#computer_output = literally nothing
+#because 10 is not in from 0 to 9
+#user_input = 8
+#computer_output = 10
+#because 10 is in from 0 to 12

@@ -1,0 +1,16 @@
+#frank's question #4
+
+#computer will make a list of numbers(only ints)
+#print out the largest number in the list
+
+#user example #1
+#computer_list = [1,2,3,4]
+#output = 4
+
+#user example #2
+#computer_list = [1,2,3,4,10]
+#output = 10
+
+#user example #3
+#computer_list = [-10,0,10,2]
+#output = 10

@@ -1,0 +1,4 @@
+number = int(input("what's your number"))
+answer_list = []
+#make a for in range() loop
+#print out a list that has values from 0 to number-1

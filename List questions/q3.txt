@@ -1,0 +1,20 @@
+#frank's question #3
+
+#computer will make a list of numbers(only ints)
+#print out the smallest number in the list
+
+#user example #1
+#computer_list = [1,2,3,4]
+#output = 1
+
+#user example #2
+#computer_list = [1,2,3,4,10]
+#output = 1
+
+#user example #3
+#computer_list = [-10,0,10,2]
+#output = -10
+
+#user example #4
+#computer_list = []
+#output =

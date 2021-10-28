@@ -1,0 +1,14 @@
+#assignment #5
+#skills involved: usage of classes and functions
+
+#you are a very unpaid programer, who is currently told to code the class of an item
+#the item is a part of a very cool rpg game
+#your boss clearly states that the item should have these several values
+#durability(int), damage(int),name(string)
+#he wants you to write 3 functions for the item class
+#get_durability(self): returns the integer of the durability left in the weapon
+#use_durability(self): minuses the durability by 1, if it goes below 0, make it remain 0, instead of going to a negative int
+#get_damage(self): return the damage value
+#get_name(self): returns the name of the item
+
+#if you  are stuck on any of these, either search up an example of a python class online or ask frank
